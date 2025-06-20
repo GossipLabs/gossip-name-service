@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hashgraph/sdk": "^2.63.0",
+    "ethers": "^6.14.0"
+  }
+}
